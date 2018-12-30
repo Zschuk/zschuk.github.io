@@ -1,0 +1,268 @@
+@media screen and (max-width: 1130px){
+    #contacts .wrap-contacts form{
+        display: flex;
+        flex-direction: column;
+    }
+    #contacts .wrap-contacts form .msg{
+        width: 100%;
+        box-sizing: border-box;
+    }
+    #contacts .wrap-contacts form .btn{
+        width: 100%;
+        margin-left: 0;
+    }
+}
+@media screen and (max-width: 1100px){
+    .news-wrap{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .news-wrap article{
+        width: 100%;
+    }
+    .news-wrap aside{
+        width: 65%;
+    }
+}
+@media screen and (max-width: 1000px){
+    .gallery-main .wrap .gallery-container{
+        flex-direction: column;
+    }
+    .gallery-main .wrap .gallery-container .gallery-page-img{
+        width: 100%;
+    }
+    .gallery-hank .wrap .gallery-container{
+        flex-direction: column;
+    }
+    .gallery-hank .wrap .gallery-container .gallery-hank-img{
+        width: 100%;
+    }
+    .contacts-page .wrap{
+        flex-direction: column;
+    }
+    .contacts-page .wrap .contacts-container{
+        width: 100%;
+        margin-bottom: 40px;
+        padding-right: 0;
+    }
+    .contacts-page .wrap .contacts-img{
+        width: 100%;
+    }
+
+}
+@media screen and (max-width: 950px){
+    nav{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .nav-brand{
+        margin-bottom: 30px;
+    }
+    .menu li a{
+        font-size: 12px;
+    }
+    .about-img{
+        display: none;
+    }
+    #about{
+        display: flex;
+        justify-content: center;
+        align-items: stretch;
+    }
+    #about .about-txt{
+        width: 90%;
+        flex-grow: 1;
+        padding: 100px 40px 0 40px;
+    }
+}
+
+@media screen and (max-width: 900px){
+    .cont-blog{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+}
+
+@media screen and (max-width: 700px){
+    .wrap nav .wrap-menu{
+        display: none;
+        width: 100%;
+    }
+    .wrap nav .wrap-menu .menu{
+        margin-top: 15px;
+        display: flex;
+        flex-direction: column;
+    }
+    .wrap nav .wrap-menu .menu li{
+        width: 100%;
+        padding: 10px 0;
+        text-align: center;
+        transition: 0.3s;
+    }
+    .wrap nav .wrap-menu .menu li:hover{
+        background-color: rgba(236, 102, 15,.6);
+    }
+    .wrap nav .wrap-menu .menu li:hover>a{
+        color: #fff;
+    }
+
+    .wrap-menu-burger{
+        display: block;
+    }
+    .about-txt h2{
+        font-size: 30px;
+    }
+    .about-txt p{
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .news-wrap aside{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 550px) and (max-width: 750px){
+    header .wrap .cont-title span{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    header .wrap .cont-title h1{
+       font-size: 30px;
+    }
+    header .wrap .cont-title h1 span{
+        font-size: 34px;
+    }
+    header .wrap .cont-title{
+        margin-top: 60px;
+    } 
+    #contacts .wrap-contacts h2{
+        font-size: 35px;
+    }
+    .gallery-main .wrap .gallery-container .gallery-main-img{
+        height: 350px;
+    }
+}
+@media screen and (min-width: 400px) and (max-width: 800px){
+    .gallery-hank .wrap .gallery-container .gallery-hank-img{
+        height: 350px;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 549px){
+    header .wrap .cont-title span{
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    header .wrap .cont-title h1{
+       font-size: 35px;
+       margin-top: 10px;
+    }
+    header .wrap .cont-title h1 span{
+        font-size: 35px;
+    }
+    header .wrap .cont-title{
+        margin-top: 120px;
+    }  
+    .about-txt{
+        width: 100%;
+        flex-grow: 1;
+    }
+    .address-inst{
+        justify-content: center;
+    }
+    .address-inst .address-inst-title{
+        width: 80%;
+    }
+    .about-content .wrap .about-content-img{
+        width: 100%;
+        height: 300px;
+        margin-bottom: 40px;
+    }
+    .our-awards .wrap{
+        width: 96%;
+    }
+    .our-awards .wrap .our-awards-slider .slides-cont{
+        width: 200px;
+        height: 200px;
+    }
+    .our-awards .wrap .our-awards-slider .slides-cont.award-item{
+        width: 200px;
+        height: 200px;
+    }
+    .our-awards .wrap .our-awards-slider .slides-cont.award-item .award-item-img{
+        width: 200px;
+        height: 200px;
+    }
+    .gallery-main .wrap .gallery-container .gallery-page-img{
+        height: 250px;
+    }
+    .contacts-page .wrap .contacts-img{
+        height: 500px;
+    }
+    .news-wrap article section .news-btn-container{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .news-wrap article section .news-btn-container .news-group-btn{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .news-wrap article section .news-btn-container .news-group-btn .news-btn{
+       margin-bottom: 10px;
+       margin-left: 0;
+    }
+    .news-wrap aside{
+        padding-left: 0;
+    }
+
+   
+}
+@media screen and (max-width: 568px){
+    #contacts .wrap-contacts{
+        width: 100%;
+    }
+    .news-wrap article section .news-btn-container .news-group-btn .news-btn{
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+    .news-wrap article section .news-btn-container .btn{
+        margin-bottom: 10px;
+    }
+    .news-wrap article section .news-section-img{
+       height: 200px;
+    }
+}
+@media screen and (max-width: 380px){
+    #gallery{
+        margin-top: 50px;
+    }
+    #gallery .wrap .cont-gallery a .gallery-img{
+        width: 330px;
+        height: 330px;
+    }
+}
+@media screen and (max-width: 320px){
+    #gallery{
+        margin-top: 100px;
+    }
+    #gallery .wrap .cont-gallery a .gallery-img{
+        width: 250px;
+        height: 250px;
+    }
+    #blog .wrap .cont-blog .blog-card{
+        width: 300px;
+    }
+    .news-wrap aside .calendar{
+        width: 280px;
+    }
+    .news-wrap aside .calendar .calendar-date{
+        padding: 5px;
+        grid-gap: 15px;
+    }
+}
+
+
