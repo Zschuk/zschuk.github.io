@@ -160,7 +160,7 @@ h2{
 header{
     width: 100%;
     height: 100vh;
-    background: url(images/header/terrier.jpg);
+    background: url('images/header/terrier.jpg');
     @include bg-img;
     padding-top: 50px;
     .wrap{
