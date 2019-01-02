@@ -418,7 +418,7 @@ header{
         margin: 0 30px 30px 0;
         width: 500px;
         height: 450px;
-        background: url(/images/about/adorable.jpg);
+        background: url(../images/about/adorable.jpg);
         @include bg-img;
     }
     h2{
@@ -461,11 +461,11 @@ header{
                     margin: 0 auto;
                 }
                 .aig-1{
-                    background: url(/images/about/aig-1.png);
+                    background: url(../images/about/aig-1.png);
                     @include bg-img;
                 }
                 .aig-2{
-                    background: url(/images/about/aig-2.png);
+                    background: url(../images/about/aig-2.png);
                     @include bg-img;
                 }
                 .aig-3{
@@ -486,7 +486,7 @@ header{
 .address-inst{
     width: 100%;
     height: 100vh;
-    background:grey url(/images/about/kitten.jpg);
+    background:grey url(../images/about/kitten.jpg);
     @include bg-img;
     display: flex;
     justify-content: flex-start;
@@ -570,32 +570,32 @@ header{
             }
         }
         .gallery-item-1{
-            background: url(/images/gallery/dachshund.jpg);
+            background: url(../images/gallery/dachshund.jpg);
             @include bg-img;
             overflow: hidden;
         }
         .gallery-item-2{
-            background: url(/images/gallery/raccoon-1.jpg);
+            background: url(../images/gallery/raccoon-1.jpg);
             @include bg-img;
             overflow: hidden;
         }
         .gallery-item-3{
-            background: url(/images/gallery/raccoon-2.jpg);
+            background: url(../images/gallery/raccoon-2.jpg);
             @include bg-img;
             overflow: hidden;
         }
         .gallery-item-4{
-            background: url(/images/gallery/cat-2.jpg);
+            background: url(../images/gallery/cat-2.jpg);
             @include bg-img;
             overflow: hidden;
         }
         .gallery-item-5{
-            background: url(/images/gallery/dog.jpg);
+            background: url(../images/gallery/dog.jpg);
             @include bg-img;
             overflow: hidden;
         }
         .gallery-item-6{
-            background: url(/images/gallery/cat-1.jpg);
+            background: url(../images/gallery/cat-1.jpg);
             @include bg-img;
             overflow: hidden;
         }
@@ -654,17 +654,17 @@ header{
                     }
                 }
                 .blog-img-1{
-                    background-image: url(/images/blog/blog-1.jpg);
+                    background-image: url(../images/blog/blog-1.jpg);
                     @include bg-img;
                     overflow: hidden;
                 }
                 .blog-img-2{
-                    background-image: url(/images/blog/blog-2.jpg);
+                    background-image: url(../images/blog/blog-2.jpg);
                     @include bg-img;
                     overflow: hidden;
                 }
                 .blog-img-3{
-                    background-image: url(/images/blog/blog-3.jpg);
+                    background-image: url(../images/blog/blog-3.jpg);
                     @include bg-img;
                     overflow: hidden;
                 }
@@ -695,7 +695,7 @@ header{
     align-items: center;
     box-sizing: border-box;
     padding: 0 10%;
-    background: url(/images/contacts/child-1538561_1280.jpg);
+    background: url(../images/contacts/child-1538561_1280.jpg);
     @include bg-img;
     .wrap-contacts{
         width: 60%;
@@ -788,7 +788,7 @@ footer{
             }
             .gallery-main-item-1{
                 width: 100%;
-                background: url(/images/gallery/dog-1.jpg);
+                background: url(../images/gallery/dog-1.jpg);
                 @include bg-img;
                 position: relative;
                 h3{
@@ -805,42 +805,42 @@ footer{
             }
             .gallery-main-item-2{
                 width: 48.7%;
-                background: url(/images/gallery/cat-1.jpg);
+                background: url(../images/gallery/cat-1.jpg);
                 @include bg-img;
             }
             .gallery-main-item-3{
                 width: 48.7%;
-                background: url(/images/gallery/cat-2.jpg);
+                background: url(../images/gallery/cat-2.jpg);
                 @include bg-img;
             }
             .gallery-main-item-4{
                 width: 100%;
-                background: url(/images/gallery/raccoon-1.jpg);
+                background: url(../images/gallery/raccoon-1.jpg);
                 @include bg-img;
             }
             .gallery-main-item-5{
                 width: 32%;
-                background: url(/images/gallery/dog-2.jpg);
+                background: url(../images/gallery/dog-2.jpg);
                 @include bg-img;
             }
             .gallery-main-item-6{
                 width: 32%;
-                background: url(/images/gallery/dog-3.jpg);
+                background: url(../images/gallery/dog-3.jpg);
                 @include bg-img;
             }
             .gallery-main-item-7{
                 width: 32%;
-                background: url(/images/gallery/cat-3.jpg);
+                background: url(../images/gallery/cat-3.jpg);
                 @include bg-img;
             }
             .gallery-main-item-8{
                 width: 30%;
-                background: url(/images/gallery/dachshund.jpg);
+                background: url(../images/gallery/dachshund.jpg);
                 @include bg-img;
             }
             .gallery-main-item-9{
                 width: 68%;
-                background: url(/images/gallery/dog.jpg);
+                background: url(../images/gallery/dog.jpg);
                 @include bg-img;
             }
                    
@@ -884,23 +884,23 @@ footer{
                 }
             }
             .gallery-hank-item-1{
-                background: url(/images/gallery/dachshund.jpg);
+                background: url(../images/gallery/dachshund.jpg);
                 @include bg-img;
             }
             .gallery-hank-item-2{
-                background: url(/images/gallery/dog-3.jpg);
+                background: url(../images/gallery/dog-3.jpg);
                 @include bg-img;
             }
             .gallery-hank-item-3{
-                background: url(/images/about/adorable.jpg);
+                background: url(../images/about/adorable.jpg);
                 @include bg-img;
             }
             .gallery-hank-item-4{
-                background: url(/images/blog/blog-2.jpg);
+                background: url(../images/blog/blog-2.jpg);
                 @include bg-img;
             }
             .gallery-hank-item-5{
-                background: url(/images/blog/blog-3.jpg);
+                background: url(../images/blog/blog-3.jpg);
                 @include bg-img;
             }
         }
@@ -932,19 +932,19 @@ footer{
                     }
                 }
                 .inner-img-1{
-                    background: url(/images/blog/blog-3.jpg);
+                    background: url(../images/blog/blog-3.jpg);
                     @include bg-img;
                 }
                 .inner-img-2{
-                    background: url(/images/blog/blog-2.jpg);
+                    background: url(../images/blog/blog-2.jpg);
                     @include bg-img;
                 }
                 .inner-img-3{
-                    background: url(/images/blog/blog-1.jpg);
+                    background: url(../images/blog/blog-1.jpg);
                     @include bg-img;
                 }
                 .inner-img-4{
-                    background: url(/images/gallery/dog-2.jpg);
+                    background: url(../images/gallery/dog-2.jpg);
                     @include bg-img;
                 }
             }
@@ -1054,7 +1054,7 @@ footer{
             li{ 
                 padding-left: 20px;
                 margin-bottom: 20px;
-                list-style-image: url(/images/news/right-arrow.svg);
+                list-style-image: url(../images/news/right-arrow.svg);
                 a{
                     font-weight: bold;
                     color: #000;
@@ -1177,7 +1177,7 @@ footer{
         .contacts-img{
             width: 50%;
             height: 730px;
-            background: url(/images/contacts/dog-contacts.jpg);
+            background: url(../images/contacts/dog-contacts.jpg);
             @include bg-img;
         }
     }
