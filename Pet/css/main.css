@@ -469,7 +469,7 @@ header .wrap .menu-burger h2 {
   position: absolute;
   width: 120%;
   height: 120%;
-  background-image: url(/images/about/dog-about.jpg);
+  background-image: url(../images/about/dog-about.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -567,21 +567,21 @@ header .wrap .menu-burger h2 {
 }
 
 .our-awards .wrap .our-awards-cont .award-item .aig-1 {
-  background: url(/images/about/aig-1.png);
+  background: url(../images/about/aig-1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .our-awards .wrap .our-awards-cont .award-item .aig-2 {
-  background: url(/images/about/aig-2.png);
+  background: url(../images/about/aig-2.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .our-awards .wrap .our-awards-cont .award-item .aig-3 {
-  background: url(/images/about/aig-3.png);
+  background: url(../images/about/aig-3.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -594,7 +594,7 @@ header .wrap .menu-burger h2 {
 .address-inst {
   width: 100%;
   height: 100vh;
-  background: grey url(/images/about/kitten.jpg);
+  background: grey url(../images/about/kitten.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -764,7 +764,7 @@ header .wrap .menu-burger h2 {
 }
 
 #gallery .wrap .cont-gallery .gallery-item-1 {
-  background: url(/images/gallery/dachshund.jpg);
+  background: url(../images/gallery/dachshund.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -772,7 +772,7 @@ header .wrap .menu-burger h2 {
 }
 
 #gallery .wrap .cont-gallery .gallery-item-2 {
-  background: url(/images/gallery/raccoon-1.jpg);
+  background: url(../images/gallery/raccoon-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -780,7 +780,7 @@ header .wrap .menu-burger h2 {
 }
 
 #gallery .wrap .cont-gallery .gallery-item-3 {
-  background: url(/images/gallery/raccoon-2.jpg);
+  background: url(../images/gallery/raccoon-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -788,7 +788,7 @@ header .wrap .menu-burger h2 {
 }
 
 #gallery .wrap .cont-gallery .gallery-item-4 {
-  background: url(/images/gallery/cat-2.jpg);
+  background: url(../images/gallery/cat-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -796,7 +796,7 @@ header .wrap .menu-burger h2 {
 }
 
 #gallery .wrap .cont-gallery .gallery-item-5 {
-  background: url(/images/gallery/dog.jpg);
+  background: url(../images/gallery/dog.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -804,7 +804,7 @@ header .wrap .menu-burger h2 {
 }
 
 #gallery .wrap .cont-gallery .gallery-item-6 {
-  background: url(/images/gallery/cat-1.jpg);
+  background: url(../images/gallery/cat-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -890,7 +890,7 @@ header .wrap .menu-burger h2 {
 }
 
 #blog .wrap .cont-blog .blog-card .blog-img-1 {
-  background-image: url(/images/blog/blog-1.jpg);
+  background-image: url(../images/blog/blog-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -898,7 +898,7 @@ header .wrap .menu-burger h2 {
 }
 
 #blog .wrap .cont-blog .blog-card .blog-img-2 {
-  background-image: url(/images/blog/blog-2.jpg);
+  background-image: url(../images/blog/blog-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -906,7 +906,7 @@ header .wrap .menu-burger h2 {
 }
 
 #blog .wrap .cont-blog .blog-card .blog-img-3 {
-  background-image: url(/images/blog/blog-3.jpg);
+  background-image: url(../images/blog/blog-3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -948,7 +948,7 @@ header .wrap .menu-burger h2 {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   padding: 0 10%;
-  background: url(/images/contacts/child-1538561_1280.jpg);
+  background: url(../images/contacts/child-1538561_1280.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1122,7 +1122,7 @@ footer .footer-icons .fab:hover {
 
 .gallery-main .wrap .gallery-container .gallery-main-item-1 {
   width: 100%;
-  background: url(/images/gallery/dog-1.jpg);
+  background: url(../images/gallery/dog-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1143,7 +1143,7 @@ footer .footer-icons .fab:hover {
 
 .gallery-main .wrap .gallery-container .gallery-main-item-2 {
   width: 48.7%;
-  background: url(/images/gallery/cat-1.jpg);
+  background: url(../images/gallery/cat-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1151,7 +1151,7 @@ footer .footer-icons .fab:hover {
 
 .gallery-main .wrap .gallery-container .gallery-main-item-3 {
   width: 48.7%;
-  background: url(/images/gallery/cat-2.jpg);
+  background: url(../images/gallery/cat-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1159,7 +1159,7 @@ footer .footer-icons .fab:hover {
 
 .gallery-main .wrap .gallery-container .gallery-main-item-4 {
   width: 100%;
-  background: url(/images/gallery/raccoon-1.jpg);
+  background: url(../images/gallery/raccoon-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1167,7 +1167,7 @@ footer .footer-icons .fab:hover {
 
 .gallery-main .wrap .gallery-container .gallery-main-item-5 {
   width: 32%;
-  background: url(/images/gallery/dog-2.jpg);
+  background: url(../images/gallery/dog-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1175,7 +1175,7 @@ footer .footer-icons .fab:hover {
 
 .gallery-main .wrap .gallery-container .gallery-main-item-6 {
   width: 32%;
-  background: url(/images/gallery/dog-3.jpg);
+  background: url(../images/gallery/dog-3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1183,7 +1183,7 @@ footer .footer-icons .fab:hover {
 
 .gallery-main .wrap .gallery-container .gallery-main-item-7 {
   width: 32%;
-  background: url(/images/gallery/cat-3.jpg);
+  background: url(../images/gallery/cat-3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1191,7 +1191,7 @@ footer .footer-icons .fab:hover {
 
 .gallery-main .wrap .gallery-container .gallery-main-item-8 {
   width: 30%;
-  background: url(/images/gallery/dachshund.jpg);
+  background: url(../images/gallery/dachshund.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1199,7 +1199,7 @@ footer .footer-icons .fab:hover {
 
 .gallery-main .wrap .gallery-container .gallery-main-item-9 {
   width: 68%;
-  background: url(/images/gallery/dog.jpg);
+  background: url(../images/gallery/dog.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1304,35 +1304,35 @@ footer .footer-icons .fab:hover {
 }
 
 .gallery-hank .wrap .gallery-container .gallery-hank-item-1 {
-  background: url(/images/gallery/dachshund.jpg);
+  background: url(../images/gallery/dachshund.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .gallery-hank .wrap .gallery-container .gallery-hank-item-2 {
-  background: url(/images/gallery/dog-3.jpg);
+  background: url(../images/gallery/dog-3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .gallery-hank .wrap .gallery-container .gallery-hank-item-3 {
-  background: url(/images/about/adorable.jpg);
+  background: url(../images/about/adorable.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .gallery-hank .wrap .gallery-container .gallery-hank-item-4 {
-  background: url(/images/blog/blog-2.jpg);
+  background: url(../images/blog/blog-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .gallery-hank .wrap .gallery-container .gallery-hank-item-5 {
-  background: url(/images/blog/blog-3.jpg);
+  background: url(../images/blog/blog-3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1375,28 +1375,28 @@ footer .footer-icons .fab:hover {
 }
 
 .news-wrap article section .news-section-img .inner-img-1 {
-  background: url(/images/blog/blog-3.jpg);
+  background: url(../images/blog/blog-3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .news-wrap article section .news-section-img .inner-img-2 {
-  background: url(/images/blog/blog-2.jpg);
+  background: url(../images/blog/blog-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .news-wrap article section .news-section-img .inner-img-3 {
-  background: url(/images/blog/blog-1.jpg);
+  background: url(../images/blog/blog-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .news-wrap article section .news-section-img .inner-img-4 {
-  background: url(/images/gallery/dog-2.jpg);
+  background: url(../images/gallery/dog-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1551,7 +1551,7 @@ footer .footer-icons .fab:hover {
 .news-wrap aside .news-categories li {
   padding-left: 20px;
   margin-bottom: 20px;
-  list-style-image: url(/images/news/right-arrow.svg);
+  list-style-image: url(../images/news/right-arrow.svg);
 }
 
 .news-wrap aside .news-categories li a {
@@ -1725,7 +1725,7 @@ footer .footer-icons .fab:hover {
 .contacts-page .wrap .contacts-img {
   width: 50%;
   height: 730px;
-  background: url(/images/contacts/dog-contacts.jpg);
+  background: url(../images/contacts/dog-contacts.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
