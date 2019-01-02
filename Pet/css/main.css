@@ -507,7 +507,7 @@ header .wrap .menu-burger h2 {
   margin: 0 30px 30px 0;
   width: 500px;
   height: 450px;
-  background: url(/images/about/adorable.jpg);
+  background: url(../images/about/adorable.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
