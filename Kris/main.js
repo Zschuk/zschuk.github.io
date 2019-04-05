@@ -1,4 +1,31 @@
 $(document).ready(function(){
+	
+	// ----- scroll animation ------
+	
+	 $(document).scroll(function(){
+        if($(this).scrollTop() > 500){
+            $('.service-item-one').addClass('service-item-active');
+        }
+        if($(this).scrollTop() > 500){
+            $('.service-item-two').addClass('service-item-active');
+        }
+        if($(this).scrollTop() > 700){
+            $('.service-item-three').addClass('service-item-active');
+        }
+        if($(this).scrollTop() > 700){
+            $('.service-item-four').addClass('service-item-active');
+        }
+        if($(this).scrollTop() > 900){
+            $('.service-item-five').addClass('service-item-active');
+        }
+        if($(this).scrollTop() > 900){
+            $('.service-item-six').addClass('service-item-active');
+        }
+        if($(this).scrollTop() > 2700){
+            $('.step-card-up, .step-card-down').addClass('step-card-active');
+        }
+    });
+
 
     // ---- burger ----
     
