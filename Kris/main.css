@@ -350,7 +350,7 @@ form input[type="submit"]:hover{
 .price-card{
     width: 23.5vw;
     text-align: center;
-    color: #929aa3;
+    color: #4d4e50;
     background: #fff;
     padding: 10vh 1.7vw;
     box-sizing: border-box;
@@ -363,7 +363,7 @@ form input[type="submit"]:hover{
 }
 .price-number{
     font-size: 2.4em;
-    color: #ffc155;
+    color: #f39d09;
 }
 .price-number sup{
     font-size: 0.6em;
@@ -413,6 +413,16 @@ form input[type="submit"]:hover{
     width: 14.7vw;
     text-align: center;
 }
+.step-card-up{
+    transform: translateY(-300px);
+}
+.step-card-down{
+    transform: translateY(300px);
+}
+.step-card-active{
+    transform: translateY(0);
+    transition: 1s;
+}
 .step-card:hover > i{
     color: #ffc155;
     transform: scale(1.1);
@@ -422,6 +432,9 @@ form input[type="submit"]:hover{
     color: #709dca;
     transition: 0.3s;
     margin-bottom: 5vh;
+}
+.step-card h3{
+    color: #4d4e50;
 }
 .step-card p{
     color: #929aa3;
