@@ -408,6 +408,7 @@ form input[type="submit"]:hover{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    overflow: hidden;
 }
 .step-card{
     width: 14.7vw;
