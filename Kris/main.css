@@ -267,6 +267,24 @@ form input[type="submit"]:hover{
     line-height: 1.6em;
     font-size: 0.9em;
 }
+.service-item-one,
+.service-item-three,
+.service-item-five{
+    transform: translateX(-500px);
+}
+.service-item-two,
+.service-item-four,
+.service-item-six{
+    transform: translateX(500px);
+}
+.service-item-active{
+    transform: translateX(0px);
+    transition: 1s;
+}
+.service-item-two-active{
+    transform: translateX(0px);
+    transition: 1s;
+}
 
 /* ------ about ------- */
 
