@@ -1,0 +1,17 @@
+@mixin img-bg{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    // background-attachment: fixed;
+}
+@mixin flex-column-c-c {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+@mixin flex-c-c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
